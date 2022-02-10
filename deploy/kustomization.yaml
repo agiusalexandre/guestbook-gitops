@@ -18,3 +18,4 @@ images:
 - name: guestbook
   newName: guestbook
   newTag: new
+  
